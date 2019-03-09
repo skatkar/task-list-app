@@ -26,3 +26,13 @@ ReactJS application to create the task list.
 	$ yarn run dev-server
 	
 The application can be accessed at:- localhost:8080
+
+### Libraries used
+- webpack
+- react-dom
+- react-modal
+- babel-loader
+- css-loader
+- live-server
+- sass-loader
+
