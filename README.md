@@ -5,6 +5,7 @@ ReactJS application to create the task list.
 1. User can create the tasks list.
 2. It provides the facility to delete an individual as well as all the tasks.
 3. Option to randomly select a task to remove it from the list.
+4. The application UI adjusts itself to provide the same user experience irrespective of the device screen size.
 
 ### Steps to setup the application
 1. To install the necessary dependencies, go to the project directory.
